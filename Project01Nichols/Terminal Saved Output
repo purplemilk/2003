@@ -1,0 +1,53 @@
+Last login: Fri Sep  7 13:51:08 on ttys000
+Katys-MBP:~ k80$ cd desktop/Project01Nichols
+Katys-MBP:Project01Nichols k80$ python3 PolyRecRoot.py
+the four vertices of the mypolygon are ...
+ 1.70 4.90
+ 6.10 6.20
+ 7.00 2.80
+ 4.80 0.10
+ 1.50 1.40
+
+the perimeter of mypolygon is ... 
+Using Polygon's perimeter routine
+18.64
+the area of mypolygon is ... 
+25.92
+the four vertices of the myrectangle are ...
+ 7.00 5.00
+ 1.00 5.00
+ 1.00 3.00
+ 7.00 3.00
+
+the length of myrectangle is ... 
+6.0
+the width of myrectangle is ... 
+2.0
+the perimeter of myrectangle is ... 
+Using Rectangle's perimeter routine
+16.0
+the area of myrectangle is ... 
+Using Rectangle's area routine
+12.0
+the four vertices of the mypolygon are ...
+ 4.10 5.40
+ 6.90 2.50
+ 2.90 0.80
+ 0.90 2.50
+
+the perimeter of mypolygon is ... 
+Using Polygon's perimeter routine
+15.32
+the area of mypolygon is ... 
+11.11
+the four vertices of the mypolygon are ...
+ 1.20 4.70
+ 6.50 4.20
+ 4.00 1.70
+
+the perimeter of mypolygon is ... 
+Using Polygon's perimeter routine
+12.96
+the area of mypolygon is ... 
+15.63
+Katys-MBP:Project01Nichols k80$ 
